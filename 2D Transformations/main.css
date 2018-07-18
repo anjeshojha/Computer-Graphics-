@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(255, 255,255);
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+}
+
+.navigation {
+  display: block;
+}
+
+input[type='number'] {
+  margin: 10px;
+  height: 30px;
+  width: 150px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  font-size: 12px;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  background-color: green;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius:2px;
+}
+
+label {
+  font-weight:bold;
+  font-size: 14px;
+}
