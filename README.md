@@ -1,7 +1,7 @@
 # Computer-Graphics-
 https://github.com/processing/p5.js/releases/download/0.6.1/p5.zip Download required p5.js libraries
 
-Copy the script file codes and link it with index.html file to run following works.
+Copy the script file codes inside empty-example folder and link it with index.html file to run following works.
 
 Lab Works of COMP 342
 1. Flag of Nepal
@@ -11,3 +11,4 @@ Lab Works of COMP 342
 5. 2D Transformation- Translation,Rotation, Scaling, Reflection, Shearing(Using matrix multiplication)
 6. 2D viewing- Cohen-Sutherland LCA
 7. 3D Transformations
+8. Windmill design
