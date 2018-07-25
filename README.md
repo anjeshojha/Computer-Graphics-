@@ -9,6 +9,7 @@ Lab Works of COMP 342
 3. Circle- Mid Point algorithm
 4. Ellipse- Mid Point algorithm
 5. 2D Transformation- Translation,Rotation, Scaling, Reflection, Shearing(Using matrix multiplication)
-6. 2D viewing- Cohen-Sutherland LCA
+6. 2D viewing- Liang Barsky Line Clipping Algorithm
 7. 3D Transformations
 8. Windmill design
+9. Fractal Tree Mini Project
